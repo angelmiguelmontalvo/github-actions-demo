@@ -2,6 +2,8 @@
 
 [![AWS 3.6.12](https://github.com/angelmiguelmontalvo/github-actions-demo/actions/workflows/aws-shell.yml/badge.svg)](https://github.com/angelmiguelmontalvo/github-actions-demo/actions/workflows/aws-shell.yml)
 
+[![AWS 3.9.7](https://github.com/angelmiguelmontalvo/github-actions-demo/actions/workflows/aws-cloud9.yml/badge.svg)](https://github.com/angelmiguelmontalvo/github-actions-demo/actions/workflows/aws-cloud9.yml)
+
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
 
